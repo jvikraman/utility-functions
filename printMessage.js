@@ -2,3 +2,8 @@
 function printMessage(message) {
     console.log(message);
 }
+
+function printMessageWithNewLine(message) {
+	console.log(message);
+	console.log(‘’);
+}
