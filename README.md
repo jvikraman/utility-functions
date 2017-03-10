@@ -10,7 +10,7 @@ printMessage(‘Howdy!’);
 ```
 printMessageWithNewLine(‘Aloha!!’);
 //=> Aloha!!
-
+//You are not seeing it...but the new line is here :)
 ```
 
 ```
