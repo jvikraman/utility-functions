@@ -17,3 +17,8 @@ printMessageWithNewLine(‘Aloha!!’);
 getRandomElement([1, 2, 3]);
 //=> 2
 ```
+
+```
+getUrlSlug(‘lets snake case this’);
+//=> ‘lets-snake-case-this’
+```
