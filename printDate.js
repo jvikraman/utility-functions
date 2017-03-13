@@ -1,3 +1,5 @@
 //print today's date to console
-var currentDate = new Date();
-console.log(currentDate);
+export default function printDate() {
+	var currentDate = new Date();
+	console.log(currentDate);
+}

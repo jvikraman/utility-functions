@@ -7,3 +7,5 @@ function printMessageWithNewLine(message) {
 	console.log(message);
 	console.log(‘’);
 }
+
+module.exports = printMessage, printMessageWithNewLine;
